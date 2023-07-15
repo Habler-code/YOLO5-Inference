@@ -7,7 +7,7 @@ This approach known as the **Single Shot Detector**: where object detection and 
 **YOLOv5** is a an object detection model introduced by Ultralytics.
 For more information about [YOLOv5](https://github.com/ultralytics/yolov5), you can refer to the official Ultralytics repository: 
 
-![YOLO]([https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.section.io%2Fengineering-education%2Fintroduction-to-yolo-algorithm-for-object-detection%2Fhow-yolo-algorithm-works.jpg&tbnid=pmw1V910NcZ6iM&vet=12ahUKEwjfqvqLzJCAAxWLmScCHWdmCrMQMygDegUIARDJAQ..i&imgrefurl=https%3A%2F%2Fwww.section.io%2Fengineering-education%2Fintroduction-to-yolo-algorithm-for-object-detection%2F&docid=fxZV8qcXMl2-rM&w=483&h=324&q=what%20is%20yolo%20&ved=2ahUKEwjfqvqLzJCAAxWLmScCHWdmCrMQMygDegUIARDJAQ](https://miro.medium.com/v2/resize:fit:1152/1*m8p5lhWdFDdapEFa2zUtIA.jpeg))
+![YOLO](https://miro.medium.com/v2/resize:fit:1152/1*m8p5lhWdFDdapEFa2zUtIA.jpeg)
 
 
 **Required Libraries:**
