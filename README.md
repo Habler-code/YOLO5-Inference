@@ -4,11 +4,24 @@ You Only Look Once (YOLO) algorithm combines classification and bounding box pre
 YOLO examines the entire image in one pass, capturing the contextual information of detected objects, thus reducing false-positive detections compared to methods that analyze different image regions separately, while preserving generalization capabilities.
 This approach known as the **Single Shot Detector**: where object detection and classification are performed in a single pass through the network.
 
+**You Only Look Once (V1)**:
+```
+bibtex
+@inproceedings{redmon2016you,
+  title={You only look once: Unified, real-time object detection},
+  author={Redmon, Joseph and Divvala, Santosh and Girshick, Ross and Farhadi, Ali},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={779--788},
+  year={2016}
+}
+```
+
 **YOLOv5** is a an object detection model introduced by Ultralytics.
 For more information about [YOLOv5](https://github.com/ultralytics/yolov5), you can refer to the official Ultralytics repository: 
 
-![YOLO](https://miro.medium.com/v2/resize:fit:1152/1*m8p5lhWdFDdapEFa2zUtIA.jpeg)
-
+<p align="center">
+<img src="https://miro.medium.com/v2/resize:fit:1152/1*m8p5lhWdFDdapEFa2zUtIA.jpeg" width="500" height="500">
+</p>
 
 **Required Libraries:**
 ```
